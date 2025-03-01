@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "robo-node.js",
+			"path": "."
+		},
+		{
+			"name": "crud_usuarios",
+			"path": "../crud_usuarios"
+		}
+	],
+	"settings": {}
+}
